@@ -1,5 +1,4 @@
 import {Sequelize} from "sequelize-typescript";
-import {POSTGRES_DB, POSTGRES_HOST, POSTGRES_PASSWORD, POSTGRES_PORT, POSTGRES_USER} from "./constant";
 
 export const databaseProviders = [
     {
