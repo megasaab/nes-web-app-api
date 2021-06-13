@@ -9,7 +9,7 @@ async function bootstrap() {
       .setTitle('CRUD NEST BACKEND')
       .setDescription('REST API Documentation')
       .setVersion('1.0.0')
-      .addTag('megasaab')
+      .addTag('nest-web-app')
       .build()
 
   const document = SwaggerModule.createDocument(app, config);
